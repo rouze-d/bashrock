@@ -10,4 +10,5 @@ usage:
 ```
 bash bashrock.sh
 ```
-and put file input and output
+## Demo
+[![asciicast](https://asciinema.org/a/254244.svg)](https://asciinema.org/a/254244)
