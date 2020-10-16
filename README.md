@@ -4,7 +4,7 @@ Bashrock in tool for Encrypt bash script/shell but you can use bash script/shell
 
 need:<br>
 ```
-sudo gem install lolcat
+sudo apt install lolcat
 ```
 usage:
 ```
